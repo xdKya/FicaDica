@@ -1,2 +1,1 @@
-# FicaDica
-Aplicativo FicaDica Atualizado dia 22/10/23
+# projeto-do-meu-app_ajuda-da-Amanda-pra-fazer-o-projeto
